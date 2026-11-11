@@ -1,7 +1,7 @@
 /*
- * LoveWearz scraper — جمع‌آوری جدول سایز، قیمت و موجودی سوتین‌ها و ست‌ها از lovewearz.com
+ * LoveWearz scraper — جمع‌آوری جدول سایز، قیمت و موجودی سوتین‌ها و ست‌ها از lovewearz.ir
  *
- * این فایل باید داخل صفحه‌ای از خود lovewearz.com اجرا شود (هم‌مبدأ)، به یکی از این دو روش:
+ * این فایل باید داخل صفحه‌ای از خود lovewearz.ir اجرا شود (هم‌مبدأ)، به یکی از این دو روش:
  *   1) GitHub Actions با Playwright  (scraper/run.mjs)
  *   2) بوکمارکلت صفحه‌ی admin.html   (LWScraper.runAndDownload)
  * خروجی: { generatedAt, source, products: [...], problems: [...] }
@@ -141,11 +141,11 @@
     return { generatedAt: new Date().toISOString(), source: origin, scanned: urls.length, products, problems };
   }
 
-  /* اجرای دستی با بوکمارکلت روی lovewearz.com: نوار پیشرفت + دانلود products.json */
+  /* اجرای دستی با بوکمارکلت روی lovewearz.ir: نوار پیشرفت + دانلود products.json */
   async function runAndDownload() {
-    if (!/lovewearz\.com$/.test(location.hostname)) { alert("این ابزار را روی سایت lovewearz.com اجرا کنید."); return; }
+    if (!/lovewearz\.(ir|com)$/.test(location.hostname)) { alert("این ابزار را روی سایت lovewearz.ir اجرا کنید."); return; }
     const box = document.createElement("div");
-    box.style.cssText = "position:fixed;inset:auto 16px 16px auto;z-index:999999;background:#7a2e4d;color:#fff;padding:14px 18px;border-radius:12px;font:14px Tahoma;direction:rtl;box-shadow:0 6px 24px #0004";
+    box.style.cssText = "position:fixed;inset:auto 16px 16px auto;z-index:999999;background:#564243;color:#fff;padding:14px 18px;border-radius:12px;font:14px Tahoma;direction:rtl;box-shadow:0 6px 24px #0004";
     box.textContent = "در حال خواندن فهرست محصولات…";
     document.body.appendChild(box);
     try {

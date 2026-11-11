@@ -6,25 +6,26 @@
 <meta name="robots" content="noindex">
 <title>مدیریت سایزیاب لاورز</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" media="print" onload="this.media='all'">
+<link rel="icon" href="assets/favicon.png">
 <style>
-body{margin:0;font-family:Vazirmatn,Tahoma,sans-serif;background:#fffafc;color:#2b1d24;line-height:1.9}
+body{margin:0;font-family:Vazirmatn,Tahoma,sans-serif;background:#F7F4F2;color:#3E3A3A;line-height:1.9}
 .wrap{max-width:760px;margin:0 auto;padding:24px 16px 50px}
-h1{color:#7a2e4d;font-size:22px;margin:0 0 6px}
-h2{font-size:17px;color:#7a2e4d;margin:0 0 8px}
-.card{background:#fff;border:1px solid #ecdde4;border-radius:14px;padding:16px 18px;margin-top:16px}
-.bm{display:inline-block;background:#7a2e4d;color:#fff;text-decoration:none;padding:8px 18px;border-radius:10px;font-weight:700;cursor:grab}
-code,pre{direction:ltr;text-align:left;background:#f7eef2;border-radius:8px;padding:2px 6px;font-size:12.5px}
+h1{color:#564243;font-size:22px;margin:0 0 6px}
+h2{font-size:17px;color:#564243;margin:0 0 8px}
+.card{background:#fff;border:1px solid #E2D8D2;border-radius:14px;padding:16px 18px;margin-top:16px}
+.bm{display:inline-block;background:#564243;color:#fff;text-decoration:none;padding:8px 18px;border-radius:10px;font-weight:700;cursor:grab}
+code,pre{direction:ltr;text-align:left;background:#EDE3DC;border-radius:8px;padding:2px 6px;font-size:12.5px}
 pre{padding:10px;white-space:pre-wrap;word-break:break-all}
 table{width:100%;border-collapse:collapse;font-size:13.5px}
-td,th{border-bottom:1px solid #ecdde4;padding:6px 4px;text-align:right;vertical-align:top}
-.ok{color:#2f7d5b}.bad{color:#b3261e}
-.muted{color:#7d6b74;font-size:13px}
-button{font:inherit;border:1.5px solid #7a2e4d;background:#fff;color:#7a2e4d;border-radius:9px;padding:4px 14px;cursor:pointer}
+td,th{border-bottom:1px solid #E2D8D2;padding:6px 4px;text-align:right;vertical-align:top}
+.ok{color:#564243}.bad{color:#8E3B46}
+.muted{color:#6B6162;font-size:13px}
+button{font:inherit;border:1.5px solid #564243;background:#fff;color:#564243;border-radius:9px;padding:4px 14px;cursor:pointer}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>مدیریت سایزیاب لاورز</h1>
+  <img src="assets/logo.png" alt="LOVEWEARZ" style="height:48px;display:block;margin-bottom:14px"><h1>مدیریت سایزیاب</h1>
   <div class="muted">این صفحه برای شماست، نه مشتری. لینکش را جایی منتشر نکنید.</div>
 
   <div class="card">
@@ -44,11 +45,11 @@ button{font:inherit;border:1.5px solid #7a2e4d;background:#fff;color:#7a2e4d;bor
     <ol>
       <li>این دکمه را با ماوس بکشید و در نوار بوکمارک مرورگر رها کنید (یک بار برای همیشه):<br>
         <a class="bm" id="bm" href="#">به‌روزرسانی سایزیاب</a></li>
-      <li>به <a href="https://lovewearz.com" target="_blank" rel="noopener">lovewearz.com</a> بروید و روی همان بوکمارک کلیک کنید.</li>
+      <li>به <a href="https://lovewearz.ir" target="_blank" rel="noopener">lovewearz.ir</a> بروید و روی همان بوکمارک کلیک کنید.</li>
       <li>صبر کنید تا پیام «تمام شد» بیاید (حدود ۳ دقیقه). فایل <code>products.json</code> دانلود می‌شود.</li>
       <li>این فایل را به جای <code>products.json</code> قبلی در محل میزبانی سایزیاب آپلود کنید (در GitHub: <b>Add file ← Upload files</b>).</li>
     </ol>
-    <p class="muted">اگر مرورگرتان اجازه‌ی بوکمارکلت نداد: در lovewearz.com کلید F12 را بزنید، به تب Console بروید و این خط را بچسبانید و Enter بزنید:</p>
+    <p class="muted">اگر مرورگرتان اجازه‌ی بوکمارکلت نداد: در lovewearz.ir کلید F12 را بزنید، به تب Console بروید و این خط را بچسبانید و Enter بزنید:</p>
     <pre id="console"></pre>
     <button id="copy">کپی</button>
   </div>
@@ -70,7 +71,7 @@ button{font:inherit;border:1.5px solid #7a2e4d;background:#fff;color:#7a2e4d;bor
 const scraperUrl = new URL("scraper/lw-scraper.js", location.href).href;
 const loader = `(function(){var s=document.createElement('script');s.src='${scraperUrl}?'+Date.now();s.onload=function(){LWScraper.runAndDownload()};s.onerror=function(){alert('بارگذاری ابزار انجام نشد')};document.body.appendChild(s)})()`;
 document.getElementById("bm").href = "javascript:" + encodeURIComponent(loader);
-document.getElementById("bm").onclick = e => { e.preventDefault(); alert("این دکمه را به نوار بوکمارک بکشید و روی سایت lovewearz.com کلیک کنید."); };
+document.getElementById("bm").onclick = e => { e.preventDefault(); alert("این دکمه را به نوار بوکمارک بکشید و روی سایت lovewearz.ir کلیک کنید."); };
 document.getElementById("console").textContent = loader;
 document.getElementById("copy").onclick = () => navigator.clipboard.writeText(loader).then(() => document.getElementById("copy").textContent = "کپی شد ✓");
 

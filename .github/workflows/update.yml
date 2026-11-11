@@ -1,0 +1,44 @@
+name: به‌روزرسانی محصولات سایزیاب
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # هر روز ساعت ۴ صبح به وقت تهران
+  workflow_dispatch:        # دکمه‌ی Run workflow برای به‌روزرسانی فوری
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-products
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: نصب مرورگر
+        run: |
+          npm i --no-save playwright@1
+          npx playwright install --with-deps chromium
+
+      - name: خواندن محصولات از lovewearz.ir
+        run: node scraper/run.mjs
+
+      - name: ذخیره‌ی تغییرات
+        run: |
+          git config user.name  "sizefinder-bot"
+          git config user.email "sizefinder-bot@users.noreply.github.com"
+          git add products.json update-report.md thumbs
+          if git diff --cached --quiet; then
+            echo "تغییری نبود."
+          else
+            git commit -m "به‌روزرسانی خودکار محصولات"
+            git push
+          fi

@@ -392,7 +392,8 @@ function render() {
       </select>
     </div>
     <div class="grid">${list.length ? list.map(card).join("") : `<div class="empty" style="grid-column:1/-1">در این بخش گزینه‌ای نیست.</div>`}</div>
-    <div class="after"><button type="button" class="btn2" id="shareBtn">ذخیره یا ارسال این نتایج</button></div>`;
+    <div class="after"><a class="btn" style="text-align:center;text-decoration:none" href="style/?u=${S.under}&o=${S.over}">مدل مناسب خود را هم بشناسید</a></div>
+    <div class="after" style="margin-top:10px"><button type="button" class="btn2" id="shareBtn">ذخیره یا ارسال این نتایج</button></div>`;
   $("res").querySelectorAll(".tab").forEach(t => t.onclick = () => { S.tab = t.dataset.t; render(); });
   $("sort").onchange = e => { S.sort = e.target.value; render(); };
   $("shareBtn").onclick = share;

@@ -79,6 +79,18 @@
     return [];
   }
 
+  /* جدول «مشخصات» محصول: نوع، میزان پوشش، بند سرشانه، مناسب برای، جنس و ... */
+  function parseSpecs(doc) {
+    const tb = doc.querySelector("#profile-tab-pane table");
+    const o = {};
+    if (!tb) return o;
+    for (const tr of tb.querySelectorAll("tr")) {
+      const k = clean(tr.querySelector("th")?.textContent), v = clean(tr.querySelector("td")?.textContent);
+      if (k && v && !/سایز/.test(k)) o[k] = v;
+    }
+    return o;
+  }
+
   const looksLikeBra = name => /سوتین|ست |^ست|برالت|کرست|بالکنت/.test(name);
 
   async function fetchDoc(url) {
@@ -126,6 +138,7 @@
           img: doc.querySelector('meta[property="og:image"]')?.content || "",
           price: prices.length ? Math.min(...prices) : 0,
           sizes: table.sizes,
+          specs: parseSpecs(doc),
           vars,
         });
       } catch (e) {
@@ -163,5 +176,5 @@
     setTimeout(() => box.remove(), 20000);
   }
 
-  global.LWScraper = { scrape, runAndDownload, parseRange, parseSizeTable, parseVariants };
+  global.LWScraper = { scrape, runAndDownload, parseRange, parseSizeTable, parseVariants, parseSpecs };
 })(typeof window !== "undefined" ? window : globalThis);

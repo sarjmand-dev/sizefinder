@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>مدیریت سایزیاب لاورز</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" media="print" onload="this.media='all'">
+<style>
+body{margin:0;font-family:Vazirmatn,Tahoma,sans-serif;background:#fffafc;color:#2b1d24;line-height:1.9}
+.wrap{max-width:760px;margin:0 auto;padding:24px 16px 50px}
+h1{color:#7a2e4d;font-size:22px;margin:0 0 6px}
+h2{font-size:17px;color:#7a2e4d;margin:0 0 8px}
+.card{background:#fff;border:1px solid #ecdde4;border-radius:14px;padding:16px 18px;margin-top:16px}
+.bm{display:inline-block;background:#7a2e4d;color:#fff;text-decoration:none;padding:8px 18px;border-radius:10px;font-weight:700;cursor:grab}
+code,pre{direction:ltr;text-align:left;background:#f7eef2;border-radius:8px;padding:2px 6px;font-size:12.5px}
+pre{padding:10px;white-space:pre-wrap;word-break:break-all}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+td,th{border-bottom:1px solid #ecdde4;padding:6px 4px;text-align:right;vertical-align:top}
+.ok{color:#2f7d5b}.bad{color:#b3261e}
+.muted{color:#7d6b74;font-size:13px}
+button{font:inherit;border:1.5px solid #7a2e4d;background:#fff;color:#7a2e4d;border-radius:9px;padding:4px 14px;cursor:pointer}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>مدیریت سایزیاب لاورز</h1>
+  <div class="muted">این صفحه برای شماست، نه مشتری. لینکش را جایی منتشر نکنید.</div>
+
+  <div class="card">
+    <h2>وضعیت داده‌ها</h2>
+    <div id="status">در حال بارگذاری…</div>
+  </div>
+
+  <div class="card">
+    <h2>روش ۱ — خودکار (پیشنهادی)</h2>
+    <p>اگر سایزیاب روی GitHub Pages است، هر روز ساعت ۴ صبح خودش محصولات، قیمت‌ها و موجودی را از سایت می‌خواند. برای به‌روزرسانی فوری:
+      در مخزن GitHub به تب <b>Actions</b> بروید، <b>به‌روزرسانی محصولات سایزیاب</b> را انتخاب کنید و <b>Run workflow</b> را بزنید. حدود ۵ دقیقه بعد سایزیاب به‌روز است.</p>
+    <p class="muted">گزارش آخرین اجرا (محصولاتی که جدولشان پیدا نشد یا خوانا نبود) در فایل <code>update-report.md</code> همان مخزن است.</p>
+  </div>
+
+  <div class="card">
+    <h2>روش ۲ — دستی با یک کلیک (بدون نیاز به GitHub Actions)</h2>
+    <ol>
+      <li>این دکمه را با ماوس بکشید و در نوار بوکمارک مرورگر رها کنید (یک بار برای همیشه):<br>
+        <a class="bm" id="bm" href="#">به‌روزرسانی سایزیاب</a></li>
+      <li>به <a href="https://lovewearz.com" target="_blank" rel="noopener">lovewearz.com</a> بروید و روی همان بوکمارک کلیک کنید.</li>
+      <li>صبر کنید تا پیام «تمام شد» بیاید (حدود ۳ دقیقه). فایل <code>products.json</code> دانلود می‌شود.</li>
+      <li>این فایل را به جای <code>products.json</code> قبلی در محل میزبانی سایزیاب آپلود کنید (در GitHub: <b>Add file ← Upload files</b>).</li>
+    </ol>
+    <p class="muted">اگر مرورگرتان اجازه‌ی بوکمارکلت نداد: در lovewearz.com کلید F12 را بزنید، به تب Console بروید و این خط را بچسبانید و Enter بزنید:</p>
+    <pre id="console"></pre>
+    <button id="copy">کپی</button>
+  </div>
+
+  <div class="card">
+    <h2>محصول جدید اضافه کردید؟</h2>
+    <p>کافی است در توضیحات صفحه‌ی محصول، جدول سایز با همان ستون‌های همیشگی باشد:
+      <b>سایز روی محصول · دور زیر سینه · دور روی سینه · کاپ · سایز ایرانی</b>. بازه‌ها را مثل «۷۵تا ۷۸» یا «۸۰/۵تا ۸۳» بنویسید.
+      در به‌روزرسانی بعدی، محصول خودش به سایزیاب اضافه می‌شود و موجودی هر رنگ و سایز هم از سایت خوانده می‌شود.</p>
+    <p class="muted">برای اصلاح جدول یک محصول بدون دست زدن به سایت، یا مخفی کردن یک محصول از سایزیاب، از فایل <code>overrides.json</code> استفاده کنید.</p>
+  </div>
+
+  <div class="card">
+    <h2>مشکلات آخرین به‌روزرسانی</h2>
+    <div id="problems" class="muted">—</div>
+  </div>
+</div>
+<script>
+const scraperUrl = new URL("scraper/lw-scraper.js", location.href).href;
+const loader = `(function(){var s=document.createElement('script');s.src='${scraperUrl}?'+Date.now();s.onload=function(){LWScraper.runAndDownload()};s.onerror=function(){alert('بارگذاری ابزار انجام نشد')};document.body.appendChild(s)})()`;
+document.getElementById("bm").href = "javascript:" + encodeURIComponent(loader);
+document.getElementById("bm").onclick = e => { e.preventDefault(); alert("این دکمه را به نوار بوکمارک بکشید و روی سایت lovewearz.com کلیک کنید."); };
+document.getElementById("console").textContent = loader;
+document.getElementById("copy").onclick = () => navigator.clipboard.writeText(loader).then(() => document.getElementById("copy").textContent = "کپی شد ✓");
+
+fetch("products.json?" + Date.now()).then(r => r.json()).then(d => {
+  const when = new Date(d.generatedAt);
+  const days = (Date.now() - when) / 864e5;
+  const fmt = when.toLocaleString("fa-IR-u-ca-persian", { dateStyle: "long", timeStyle: "short" });
+  const inStock = d.products.filter(p => (p.vars || []).some(v => v.a)).length;
+  document.getElementById("status").innerHTML = `
+    <table>
+      <tr><td>آخرین به‌روزرسانی</td><td class="${days > 2 ? "bad" : "ok"}">${fmt}${days > 2 ? " — بیش از ۲ روز گذشته" : ""}</td></tr>
+      <tr><td>صفحات بررسی‌شده</td><td>${(d.scanned || 0).toLocaleString("fa-IR")}</td></tr>
+      <tr><td>سوتین و ست دارای جدول سایز</td><td>${d.products.length.toLocaleString("fa-IR")}</td></tr>
+      <tr><td>محصولات دارای حداقل یک سایز موجود</td><td>${inStock.toLocaleString("fa-IR")}</td></tr>
+    </table>`;
+  const pr = d.problems || [];
+  document.getElementById("problems").innerHTML = pr.length
+    ? `<table>${pr.map(p => `<tr><td><a href="${p.url}" target="_blank">${p.code}</a></td><td>${p.name || ""}</td><td class="bad">${p.issue}</td></tr>`).join("")}</table>`
+    : `<span class="ok">مشکلی گزارش نشده ✓</span>`;
+}).catch(() => document.getElementById("status").textContent = "products.json پیدا نشد.");
+</script>
+</body>
+</html>

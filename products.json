@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-21T01:45:28.058Z",
+ "generatedAt": "2026-11-22T01:45:51.699Z",
  "source": "https://lovewearz.com",
- "scanned": 171,
+ "scanned": 174,
  "products": [
   {
    "code": "HNX123",
@@ -9,7 +9,7 @@
    "url": "https://lovewearz.com/product/HNX123",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/1a2305b55cfe9b6fce81a8dbf8315ff0.jpg",
-   "price": 645000,
+   "price": 483750,
    "sizes": [
     {
      "label": "75",
@@ -80,119 +80,119 @@
     {
      "c": "زرشکی",
      "s": "75",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=389"
     },
     {
      "c": "زرشکی",
      "s": "80",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=390"
     },
     {
      "c": "زرشکی",
      "s": "85",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=391"
     },
     {
      "c": "زرشکی",
      "s": "90",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=392"
     },
     {
      "c": "سفید",
      "s": "75",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=393"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=394"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=395"
     },
     {
      "c": "سفید",
      "s": "90",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=396"
     },
     {
      "c": "مشکی",
      "s": "75",
-     "p": 645000,
+     "p": 483750,
      "a": false,
      "url": "https://lovewearz.com/product/HNX123?variant=397"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=398"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=399"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=400"
     },
     {
      "c": "سرمه ای",
      "s": "75",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=401"
     },
     {
      "c": "سرمه ای",
      "s": "80",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=402"
     },
     {
      "c": "سرمه ای",
      "s": "85",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=403"
     },
     {
      "c": "سرمه ای",
      "s": "90",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=404"
     },
     {
      "c": "طوسی",
      "s": "75",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=405"
     },
@@ -206,14 +206,14 @@
     {
      "c": "طوسی",
      "s": "85",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=407"
     },
     {
      "c": "طوسی",
      "s": "90",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX123?variant=408"
     }
@@ -226,7 +226,7 @@
    "url": "https://lovewearz.com/product/M1148+",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/03288cc13ce0c95e5e35e478360b73a0.jpg",
-   "price": 1017500,
+   "price": 763125,
    "sizes": [
     {
      "label": "75",
@@ -298,28 +298,28 @@
     {
      "c": "قرمز",
      "s": "75",
-     "p": 1017500,
+     "p": 763125,
      "a": true,
      "url": "https://lovewearz.com/product/M1148+?variant=409"
     },
     {
      "c": "قرمز",
      "s": "80",
-     "p": 1017500,
+     "p": 763125,
      "a": true,
      "url": "https://lovewearz.com/product/M1148+?variant=410"
     },
     {
      "c": "قرمز",
      "s": "85",
-     "p": 1017500,
+     "p": 763125,
      "a": true,
      "url": "https://lovewearz.com/product/M1148+?variant=411"
     },
     {
      "c": "قرمز",
      "s": "90",
-     "p": 1017500,
+     "p": 763125,
      "a": true,
      "url": "https://lovewearz.com/product/M1148+?variant=412"
     }
@@ -332,7 +332,7 @@
    "url": "https://lovewearz.com/product/m2050",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/f22823208acabea6a289cb7117f945e8.jpg",
-   "price": 1017500,
+   "price": 763125,
    "sizes": [
     {
      "label": "75",
@@ -403,21 +403,21 @@
     {
      "c": "زرشکی",
      "s": "75",
-     "p": 1017500,
+     "p": 763125,
      "a": true,
      "url": "https://lovewearz.com/product/m2050?variant=413"
     },
     {
      "c": "زرشکی",
      "s": "80",
-     "p": 1017500,
+     "p": 763125,
      "a": true,
      "url": "https://lovewearz.com/product/m2050?variant=414"
     },
     {
      "c": "زرشکی",
      "s": "85",
-     "p": 1017500,
+     "p": 763125,
      "a": true,
      "url": "https://lovewearz.com/product/m2050?variant=415"
     },
@@ -437,7 +437,7 @@
    "url": "https://lovewearz.com/product/LO6063",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/2f90ffcfafc3806a1f36445278464728.jpg",
-   "price": 1375000,
+   "price": 1031250,
    "sizes": [
     {
      "label": "75",
@@ -508,28 +508,28 @@
     {
      "c": "مشکی",
      "s": "75",
-     "p": 1375000,
+     "p": 1031250,
      "a": true,
      "url": "https://lovewearz.com/product/LO6063?variant=417"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1375000,
+     "p": 1031250,
      "a": true,
      "url": "https://lovewearz.com/product/LO6063?variant=418"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1375000,
+     "p": 1031250,
      "a": true,
      "url": "https://lovewearz.com/product/LO6063?variant=419"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 1375000,
+     "p": 1031250,
      "a": true,
      "url": "https://lovewearz.com/product/LO6063?variant=420"
     }
@@ -542,7 +542,7 @@
    "url": "https://lovewearz.com/product/559",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/59a5f65dbfffc703c12a4bd3f81d4ff8.jpg",
-   "price": 624000,
+   "price": 468000,
    "sizes": [
     {
      "label": "75",
@@ -600,14 +600,14 @@
     {
      "c": "مشکی",
      "s": "85",
-     "p": 624000,
+     "p": 468000,
      "a": true,
      "url": "https://lovewearz.com/product/559?variant=421"
     },
     {
      "c": "صورتی",
      "s": "85",
-     "p": 624000,
+     "p": 468000,
      "a": true,
      "url": "https://lovewearz.com/product/559?variant=422"
     },
@@ -621,7 +621,7 @@
     {
      "c": "سبز",
      "s": "75",
-     "p": 624000,
+     "p": 468000,
      "a": false,
      "url": "https://lovewearz.com/product/559?variant=424"
     },
@@ -641,7 +641,7 @@
    "url": "https://lovewearz.com/product/sh2133",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/056c92b94605a0218196be4eda4e54bc.jpg",
-   "price": 981250,
+   "price": 735938,
    "sizes": [
     {
      "label": "80C",
@@ -712,28 +712,28 @@
     {
      "c": "مشکی",
      "s": "80c",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/sh2133?variant=426"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/sh2133?variant=427"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/sh2133?variant=428"
     },
     {
      "c": "مشکی",
      "s": "95c",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/sh2133?variant=429"
     }
@@ -746,7 +746,7 @@
    "url": "https://lovewearz.com/product/SH5190",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/f9ad957858f1da5408b010837f108d24.jpg",
-   "price": 1190000,
+   "price": 892500,
    "sizes": [
     {
      "label": "75C",
@@ -817,77 +817,77 @@
     {
      "c": "کالباسی",
      "s": "90c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=430"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=431"
     },
     {
      "c": "قرمز",
      "s": "85c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=432"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=433"
     },
     {
      "c": "آبی کاربنی",
      "s": "85c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=434"
     },
     {
      "c": "آبی کاربنی",
      "s": "80c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=435"
     },
     {
      "c": "سفید",
      "s": "80c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=436"
     },
     {
      "c": "قرمز",
      "s": "80c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=437"
     },
     {
      "c": "آبی کاربنی",
      "s": "75c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=438"
     },
     {
      "c": "کالباسی",
      "s": "75c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=439"
     },
     {
      "c": "سفید",
      "s": "75c",
-     "p": 1190000,
+     "p": 892500,
      "a": true,
      "url": "https://lovewearz.com/product/SH5190?variant=440"
     }
@@ -900,7 +900,7 @@
    "url": "https://lovewearz.com/product/sh6676",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/99a386f37d0c0bc63d56cd53e5ac74c7.jpg",
-   "price": 1543750,
+   "price": 1157813,
    "sizes": [
     {
      "label": "80",
@@ -959,84 +959,84 @@
     {
      "c": "قرمز",
      "s": "80",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=441"
     },
     {
      "c": "قرمز",
      "s": "85",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=442"
     },
     {
      "c": "قرمز",
      "s": "90",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=443"
     },
     {
      "c": "کالباسی",
      "s": "80",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=444"
     },
     {
      "c": "کالباسی",
      "s": "85",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=445"
     },
     {
      "c": "کالباسی",
      "s": "90",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=446"
     },
     {
      "c": "آبی نفتی",
      "s": "80",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=447"
     },
     {
      "c": "آبی نفتی",
      "s": "85",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=448"
     },
     {
      "c": "آبی نفتی",
      "s": "90",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=449"
     },
     {
      "c": "طوسی روشن",
      "s": "80",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=450"
     },
     {
      "c": "طوسی روشن",
      "s": "85",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=451"
     },
     {
      "c": "طوسی روشن",
      "s": "90",
-     "p": 1543750,
+     "p": 1157813,
      "a": true,
      "url": "https://lovewearz.com/product/sh6676?variant=452"
     }
@@ -1049,7 +1049,7 @@
    "url": "https://lovewearz.com/product/HNX1213",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/b647456146f9953128f1d1895be899df.jpg",
-   "price": 885000,
+   "price": 663750,
    "sizes": [
     {
      "label": "75",
@@ -1121,98 +1121,98 @@
     {
      "c": "طوسی",
      "s": "90",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=453"
     },
     {
      "c": "سفید",
      "s": "90",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=454"
     },
     {
      "c": "طوسی",
      "s": "85",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=455"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=456"
     },
     {
      "c": "سرمه ای",
      "s": "85",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=457"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=458"
     },
     {
      "c": "طوسی",
      "s": "80",
-     "p": 885000,
+     "p": 663750,
      "a": false,
      "url": "https://lovewearz.com/product/HNX1213?variant=459"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=460"
     },
     {
      "c": "سرمه ای",
      "s": "80",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=461"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=462"
     },
     {
      "c": "مشکی",
      "s": "75",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=463"
     },
     {
      "c": "طوسی",
      "s": "75",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=464"
     },
     {
      "c": "سفید",
      "s": "75",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=465"
     },
     {
      "c": "سرمه ای",
      "s": "75",
-     "p": 885000,
+     "p": 663750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX1213?variant=466"
     }
@@ -1225,7 +1225,7 @@
    "url": "https://lovewearz.com/product/sh1591",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/46a93ae10944dae3bd136f11e37ffdd6.jpg",
-   "price": 1030000,
+   "price": 772500,
    "sizes": [
     {
      "label": "85",
@@ -1295,84 +1295,84 @@
     {
      "c": "مشکی",
      "s": "100",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=467"
     },
     {
      "c": "بادمجونی",
      "s": "100",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=468"
     },
     {
      "c": "کالباسی",
      "s": "95",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=469"
     },
     {
      "c": "سفید",
      "s": "95",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=470"
     },
     {
      "c": "مشکی",
      "s": "95",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=471"
     },
     {
      "c": "کرم",
      "s": "95",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=472"
     },
     {
      "c": "آبی",
      "s": "90",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=473"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=474"
     },
     {
      "c": "کرم",
      "s": "90",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=475"
     },
     {
      "c": "سفید",
      "s": "90",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=476"
     },
     {
      "c": "کالباسی",
      "s": "85",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=477"
     },
     {
      "c": "بادمجونی",
      "s": "85",
-     "p": 1030000,
+     "p": 772500,
      "a": true,
      "url": "https://lovewearz.com/product/sh1591?variant=478"
     }
@@ -1385,7 +1385,7 @@
    "url": "https://lovewearz.com/product/M002",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/ae9aea59b129edb31fbb40684ff08311.jpg",
-   "price": 1138500,
+   "price": 853875,
    "sizes": [
     {
      "label": "75B",
@@ -1456,28 +1456,28 @@
     {
      "c": "کرم",
      "s": "75",
-     "p": 1138500,
+     "p": 853875,
      "a": true,
      "url": "https://lovewearz.com/product/M002?variant=479"
     },
     {
      "c": "کرم",
      "s": "80",
-     "p": 1138500,
+     "p": 853875,
      "a": true,
      "url": "https://lovewearz.com/product/M002?variant=480"
     },
     {
      "c": "کرم",
      "s": "85",
-     "p": 1138500,
+     "p": 853875,
      "a": true,
      "url": "https://lovewearz.com/product/M002?variant=481"
     },
     {
      "c": "کرم",
      "s": "90",
-     "p": 1138500,
+     "p": 853875,
      "a": true,
      "url": "https://lovewearz.com/product/M002?variant=482"
     }
@@ -1490,7 +1490,7 @@
    "url": "https://lovewearz.com/product/M3006",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/3d17d670d319e102925475ca2a7f82cf.jpg",
-   "price": 1292500,
+   "price": 969375,
    "sizes": [
     {
      "label": "75",
@@ -1569,21 +1569,21 @@
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1292500,
+     "p": 969375,
      "a": true,
      "url": "https://lovewearz.com/product/M3006?variant=484"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1292500,
+     "p": 969375,
      "a": true,
      "url": "https://lovewearz.com/product/M3006?variant=485"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 1292500,
+     "p": 969375,
      "a": true,
      "url": "https://lovewearz.com/product/M3006?variant=486"
     }
@@ -1596,7 +1596,7 @@
    "url": "https://lovewearz.com/product/SH8257",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/5b792c8051c67ea763c3d8ee3d8961e3.jpg",
-   "price": 1177500,
+   "price": 883125,
    "sizes": [
     {
      "label": "75",
@@ -1654,84 +1654,84 @@
     {
      "c": "مشکی",
      "s": "75",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=487"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=488"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=489"
     },
     {
      "c": "سفید",
      "s": "75",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=490"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=491"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=492"
     },
     {
      "c": "کرم",
      "s": "75",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=493"
     },
     {
      "c": "کرم",
      "s": "80",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=494"
     },
     {
      "c": "کرم",
      "s": "85",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=495"
     },
     {
      "c": "کالباسی",
      "s": "75",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=496"
     },
     {
      "c": "کالباسی",
      "s": "80",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=497"
     },
     {
      "c": "کالباسی",
      "s": "85",
-     "p": 1177500,
+     "p": 883125,
      "a": true,
      "url": "https://lovewearz.com/product/SH8257?variant=498"
     }
@@ -1744,7 +1744,7 @@
    "url": "https://lovewearz.com/product/B335",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/5b880c150e5b60647de4172c5d7102a6.jpg",
-   "price": 1054000,
+   "price": 790500,
    "sizes": [
     {
      "label": "75C",
@@ -1816,56 +1816,56 @@
     {
      "c": "سفید",
      "s": "75",
-     "p": 1054000,
+     "p": 790500,
      "a": true,
      "url": "https://lovewearz.com/product/B335?variant=499"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 1054000,
+     "p": 790500,
      "a": true,
      "url": "https://lovewearz.com/product/B335?variant=500"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 1054000,
+     "p": 790500,
      "a": true,
      "url": "https://lovewearz.com/product/B335?variant=501"
     },
     {
      "c": "سفید",
      "s": "90",
-     "p": 1054000,
+     "p": 790500,
      "a": true,
      "url": "https://lovewearz.com/product/B335?variant=502"
     },
     {
      "c": "مشکی",
      "s": "75",
-     "p": 1054000,
+     "p": 790500,
      "a": true,
      "url": "https://lovewearz.com/product/B335?variant=503"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1054000,
+     "p": 790500,
      "a": true,
      "url": "https://lovewearz.com/product/B335?variant=504"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1054000,
+     "p": 790500,
      "a": true,
      "url": "https://lovewearz.com/product/B335?variant=505"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 1054000,
+     "p": 790500,
      "a": true,
      "url": "https://lovewearz.com/product/B335?variant=506"
     }
@@ -1878,7 +1878,7 @@
    "url": "https://lovewearz.com/product/hnx098",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/c7b2558d3efc7b6fc4d106992964be03.jpg",
-   "price": 663000,
+   "price": 497250,
    "sizes": [
     {
      "label": "75",
@@ -1949,49 +1949,49 @@
     {
      "c": "سفید",
      "s": "75",
-     "p": 663000,
+     "p": 497250,
      "a": false,
      "url": "https://lovewearz.com/product/hnx098?variant=507"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 663000,
+     "p": 497250,
      "a": true,
      "url": "https://lovewearz.com/product/hnx098?variant=508"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 663000,
+     "p": 497250,
      "a": true,
      "url": "https://lovewearz.com/product/hnx098?variant=509"
     },
     {
      "c": "صورتی",
      "s": "75",
-     "p": 663000,
-     "a": true,
+     "p": 497250,
+     "a": false,
      "url": "https://lovewearz.com/product/hnx098?variant=510"
     },
     {
      "c": "صورتی",
      "s": "80",
-     "p": 663000,
+     "p": 497250,
      "a": true,
      "url": "https://lovewearz.com/product/hnx098?variant=511"
     },
     {
      "c": "صورتی",
      "s": "85",
-     "p": 663000,
+     "p": 497250,
      "a": true,
      "url": "https://lovewearz.com/product/hnx098?variant=512"
     },
     {
      "c": "صورتی",
      "s": "90",
-     "p": 663000,
+     "p": 497250,
      "a": true,
      "url": "https://lovewearz.com/product/hnx098?variant=513"
     }
@@ -2004,7 +2004,7 @@
    "url": "https://lovewearz.com/product/hnx007",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/8fe25db305300ccda9d09519b07b7cc0.jpg",
-   "price": 312000,
+   "price": 234000,
    "sizes": [
     {
      "label": "75",
@@ -2075,7 +2075,7 @@
     {
      "c": "کرم",
      "s": "75",
-     "p": 624000,
+     "p": 468000,
      "a": true,
      "url": "https://lovewearz.com/product/hnx007?variant=514"
     },
@@ -2089,14 +2089,14 @@
     {
      "c": "کرم",
      "s": "85",
-     "p": 312000,
+     "p": 234000,
      "a": true,
      "url": "https://lovewearz.com/product/hnx007?variant=516"
     },
     {
      "c": "کرم",
      "s": "90",
-     "p": 624000,
+     "p": 468000,
      "a": true,
      "url": "https://lovewearz.com/product/hnx007?variant=517"
     }
@@ -2109,7 +2109,7 @@
    "url": "https://lovewearz.com/product/sh9890",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/6a4c20da980836f198e5cc478632126d.jpg",
-   "price": 1073700,
+   "price": 805275,
    "sizes": [
     {
      "label": "75",
@@ -2180,28 +2180,28 @@
     {
      "c": "مشکی",
      "s": "75",
-     "p": 1073700,
+     "p": 805275,
      "a": true,
      "url": "https://lovewearz.com/product/sh9890?variant=518"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1073700,
+     "p": 805275,
      "a": true,
      "url": "https://lovewearz.com/product/sh9890?variant=519"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1073700,
+     "p": 805275,
      "a": true,
      "url": "https://lovewearz.com/product/sh9890?variant=520"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 1073700,
+     "p": 805275,
      "a": true,
      "url": "https://lovewearz.com/product/sh9890?variant=521"
     }
@@ -2214,7 +2214,7 @@
    "url": "https://lovewearz.com/product/Mi316",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/ede949bd0056c2ef78f3335235f95454.jpg",
-   "price": 1215000,
+   "price": 911250,
    "sizes": [
     {
      "label": "80B",
@@ -2292,42 +2292,42 @@
     {
      "c": "سفید",
      "s": "85",
-     "p": 1215000,
+     "p": 911250,
      "a": true,
      "url": "https://lovewearz.com/product/Mi316?variant=523"
     },
     {
      "c": "سفید",
      "s": "90",
-     "p": 1215000,
+     "p": 911250,
      "a": true,
      "url": "https://lovewearz.com/product/Mi316?variant=524"
     },
     {
      "c": "سفید",
      "s": "95",
-     "p": 1215000,
+     "p": 911250,
      "a": true,
      "url": "https://lovewearz.com/product/Mi316?variant=525"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1215000,
+     "p": 911250,
      "a": true,
      "url": "https://lovewearz.com/product/Mi316?variant=526"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1215000,
+     "p": 911250,
      "a": true,
      "url": "https://lovewearz.com/product/Mi316?variant=527"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 1215000,
+     "p": 911250,
      "a": true,
      "url": "https://lovewearz.com/product/Mi316?variant=528"
     },
@@ -2341,14 +2341,14 @@
     {
      "c": "کرم",
      "s": "85",
-     "p": 1215000,
+     "p": 911250,
      "a": true,
      "url": "https://lovewearz.com/product/Mi316?variant=530"
     },
     {
      "c": "کرم",
      "s": "90",
-     "p": 1215000,
+     "p": 911250,
      "a": true,
      "url": "https://lovewearz.com/product/Mi316?variant=531"
     }
@@ -2361,7 +2361,7 @@
    "url": "https://lovewearz.com/product/Mi0355",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/b65cdb5d2b9a7353d1e7a2738c292005.jpg",
-   "price": 1104840,
+   "price": 828630,
    "sizes": [
     {
      "label": "85",
@@ -2432,77 +2432,77 @@
     {
      "c": "سفید",
      "s": "90",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=532"
     },
     {
      "c": "سفید",
      "s": "95",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=533"
     },
     {
      "c": "سفید",
      "s": "100",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=534"
     },
     {
      "c": "آبی",
      "s": "85",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=535"
     },
     {
      "c": "آبی",
      "s": "90",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=536"
     },
     {
      "c": "آبی",
      "s": "95",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=537"
     },
     {
      "c": "آبی",
      "s": "100",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=538"
     },
     {
      "c": "صورتی",
      "s": "85",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=539"
     },
     {
      "c": "صورتی",
      "s": "90",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=540"
     },
     {
      "c": "صورتی",
      "s": "95",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=541"
     },
     {
      "c": "صورتی",
      "s": "100",
-     "p": 1104840,
+     "p": 828630,
      "a": true,
      "url": "https://lovewearz.com/product/Mi0355?variant=542"
     }
@@ -2515,7 +2515,7 @@
    "url": "https://lovewearz.com/product/mi8025",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/3b916a44eb4fe1a14797203edc1593fb.jpg",
-   "price": 1136100,
+   "price": 852075,
    "sizes": [
     {
      "label": "75C",
@@ -2599,28 +2599,28 @@
     {
      "c": "سرمه ای",
      "s": "75",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=543"
     },
     {
      "c": "سرمه ای",
      "s": "80",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=544"
     },
     {
      "c": "سرمه ای",
      "s": "85",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=545"
     },
     {
      "c": "سرمه ای",
      "s": "90",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=546"
     },
@@ -2634,70 +2634,70 @@
     {
      "c": "کرم",
      "s": "75",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=548"
     },
     {
      "c": "کرم",
      "s": "80",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=549"
     },
     {
      "c": "کرم",
      "s": "85",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=550"
     },
     {
      "c": "کرم",
      "s": "90",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=551"
     },
     {
      "c": "کرم",
      "s": "95",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=552"
     },
     {
      "c": "مشکی",
      "s": "75",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=553"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=554"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=555"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=556"
     },
     {
      "c": "مشکی",
      "s": "95",
-     "p": 1136100,
+     "p": 852075,
      "a": true,
      "url": "https://lovewearz.com/product/mi8025?variant=557"
     }
@@ -2710,7 +2710,7 @@
    "url": "https://lovewearz.com/product/HNX006",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/72ecb5f8f8ebdc2f324df6c23a9dcca6.jpg",
-   "price": 645000,
+   "price": 483750,
    "sizes": [
     {
      "label": "75",
@@ -2768,21 +2768,21 @@
     {
      "c": "سفید",
      "s": "75",
-     "p": 645000,
+     "p": 483750,
      "a": false,
      "url": "https://lovewearz.com/product/HNX006?variant=558"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX006?variant=559"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 645000,
+     "p": 483750,
      "a": true,
      "url": "https://lovewearz.com/product/HNX006?variant=560"
     }
@@ -2795,7 +2795,7 @@
    "url": "https://lovewearz.com/product/SH9822",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/eaba9408318462743c3c9cef4cc10e6d.jpg",
-   "price": 981250,
+   "price": 735938,
    "sizes": [
     {
      "label": "80",
@@ -2853,84 +2853,84 @@
     {
      "c": "سبز کله غاز ی",
      "s": "90",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=561"
     },
     {
      "c": "صورتی",
      "s": "90",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=562"
     },
     {
      "c": "کرم",
      "s": "90",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=563"
     },
     {
      "c": "سفید",
      "s": "90",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=564"
     },
     {
      "c": "سبز کله غاز ی",
      "s": "85",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=565"
     },
     {
      "c": "صورتی",
      "s": "85",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=566"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=567"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=568"
     },
     {
      "c": "صورتی",
      "s": "80",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=569"
     },
     {
      "c": "کرم",
      "s": "80",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=570"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=571"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 981250,
+     "p": 735938,
      "a": true,
      "url": "https://lovewearz.com/product/SH9822?variant=572"
     }
@@ -2943,7 +2943,7 @@
    "url": "https://lovewearz.com/product/sh186",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/d1b7bff2fbd47e32d70a82e727fc582a.jpg",
-   "price": 910000,
+   "price": 682500,
    "sizes": [
     {
      "label": "90",
@@ -3028,35 +3028,35 @@
     {
      "c": "مشکی",
      "s": "100",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh186?variant=575"
     },
     {
      "c": "مشکی",
      "s": "105",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh186?variant=576"
     },
     {
      "c": "کالباسی",
      "s": "95",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh186?variant=577"
     },
     {
      "c": "کالباسی",
      "s": "100",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh186?variant=578"
     },
     {
      "c": "طوسی",
      "s": "90",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh186?variant=579"
     },
@@ -3070,14 +3070,14 @@
     {
      "c": "شیری",
      "s": "100",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh186?variant=581"
     },
     {
      "c": "شیری",
      "s": "105",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh186?variant=582"
     }
@@ -3090,7 +3090,7 @@
    "url": "https://lovewearz.com/product/sh152",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/07f8e8c52296be2c84e94406482f1225.jpg",
-   "price": 945000,
+   "price": 708750,
    "sizes": [
     {
      "label": "90C",
@@ -3200,84 +3200,84 @@
     {
      "c": "طوسی روشن",
      "s": "105c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=583"
     },
     {
      "c": "طوسی تیره",
      "s": "105c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=584"
     },
     {
      "c": "صورتی",
      "s": "105c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=585"
     },
     {
      "c": "مشکی",
      "s": "100c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=586"
     },
     {
      "c": "سفید",
      "s": "100c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=587"
     },
     {
      "c": "قرمز",
      "s": "100c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=588"
     },
     {
      "c": "طوسی روشن",
      "s": "95c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=589"
     },
     {
      "c": "طوسی تیره",
      "s": "95c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=590"
     },
     {
      "c": "صورتی",
      "s": "95c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=591"
     },
     {
      "c": "سفید",
      "s": "90c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=592"
     },
     {
      "c": "قرمز",
      "s": "90c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=593"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 945000,
+     "p": 708750,
      "a": true,
      "url": "https://lovewearz.com/product/sh152?variant=594"
     }
@@ -3290,7 +3290,7 @@
    "url": "https://lovewearz.com/product/LO15046",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/223b986a408b41a3bbf7f699a0452e2a.jpg",
-   "price": 1388000,
+   "price": 1041000,
    "sizes": [
     {
      "label": "80C",
@@ -3348,42 +3348,42 @@
     {
      "c": "کرم",
      "s": "80",
-     "p": 1388000,
+     "p": 1041000,
      "a": true,
      "url": "https://lovewearz.com/product/LO15046?variant=595"
     },
     {
      "c": "کرم",
      "s": "85",
-     "p": 1388000,
+     "p": 1041000,
      "a": true,
      "url": "https://lovewearz.com/product/LO15046?variant=596"
     },
     {
      "c": "کرم",
      "s": "90",
-     "p": 1388000,
+     "p": 1041000,
      "a": true,
      "url": "https://lovewearz.com/product/LO15046?variant=597"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1388000,
+     "p": 1041000,
      "a": true,
      "url": "https://lovewearz.com/product/LO15046?variant=598"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1388000,
+     "p": 1041000,
      "a": true,
      "url": "https://lovewearz.com/product/LO15046?variant=599"
     },
     {
      "c": "مشکی",
      "s": "90",
-     "p": 1388000,
+     "p": 1041000,
      "a": true,
      "url": "https://lovewearz.com/product/LO15046?variant=600"
     }
@@ -3396,7 +3396,7 @@
    "url": "https://lovewearz.com/product/M88679",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/39fcdb6bd70d907e643c5016a9ca2d21.jpg",
-   "price": 1163000,
+   "price": 872250,
    "sizes": [
     {
      "label": "80C",
@@ -3454,21 +3454,21 @@
     {
      "c": "کرم",
      "s": "80c",
-     "p": 1163000,
+     "p": 872250,
      "a": true,
      "url": "https://lovewearz.com/product/M88679?variant=601"
     },
     {
      "c": "کرم",
      "s": "85c",
-     "p": 1163000,
+     "p": 872250,
      "a": true,
      "url": "https://lovewearz.com/product/M88679?variant=602"
     },
     {
      "c": "کرم",
      "s": "90c",
-     "p": 1163000,
+     "p": 872250,
      "a": true,
      "url": "https://lovewearz.com/product/M88679?variant=603"
     }
@@ -3481,7 +3481,7 @@
    "url": "https://lovewearz.com/product/SH6311",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/224a97e68553a57ac91c7b475bb4aebd.jpg",
-   "price": 1234000,
+   "price": 925500,
    "sizes": [
     {
      "label": "80C",
@@ -3539,84 +3539,84 @@
     {
      "c": "سفید",
      "s": "80c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=604"
     },
     {
      "c": "سفید",
      "s": "85c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=605"
     },
     {
      "c": "سفید",
      "s": "90c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=606"
     },
     {
      "c": "کرم",
      "s": "80c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=607"
     },
     {
      "c": "کرم",
      "s": "85c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=608"
     },
     {
      "c": "کرم",
      "s": "90c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=609"
     },
     {
      "c": "مشکی",
      "s": "80c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=610"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=611"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=612"
     },
     {
      "c": "کالباسی",
      "s": "80c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=613"
     },
     {
      "c": "کالباسی",
      "s": "85c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=614"
     },
     {
      "c": "کالباسی",
      "s": "90c",
-     "p": 1234000,
+     "p": 925500,
      "a": true,
      "url": "https://lovewearz.com/product/SH6311?variant=615"
     }
@@ -3629,7 +3629,7 @@
    "url": "https://lovewearz.com/product/SH0949",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/0751b1546134176287c69310755bf5a2.jpg",
-   "price": 1357500,
+   "price": 1018125,
    "sizes": [
     {
      "label": "85C",
@@ -3700,84 +3700,84 @@
     {
      "c": "آبی",
      "s": "100c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=616"
     },
     {
      "c": "سفید",
      "s": "95c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=617"
     },
     {
      "c": "مشکی",
      "s": "95c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=618"
     },
     {
      "c": "کرم",
      "s": "95c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=619"
     },
     {
      "c": "قرمز",
      "s": "95c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=620"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=621"
     },
     {
      "c": "قرمز",
      "s": "90c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=622"
     },
     {
      "c": "سفید",
      "s": "90c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=623"
     },
     {
      "c": "کالباسی",
      "s": "90c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=624"
     },
     {
      "c": "سفید",
      "s": "85c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=625"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=626"
     },
     {
      "c": "کالباسی",
      "s": "85c",
-     "p": 1357500,
+     "p": 1018125,
      "a": true,
      "url": "https://lovewearz.com/product/SH0949?variant=627"
     }
@@ -3790,7 +3790,7 @@
    "url": "https://lovewearz.com/product/b2021",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/127ba14c510649bab3a92d6489a09663.jpg",
-   "price": 1058000,
+   "price": 793500,
    "sizes": [
     {
      "label": "75C( شورت M)",
@@ -3863,28 +3863,28 @@
     {
      "c": "",
      "s": "75c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021?variant=628"
     },
     {
      "c": "",
      "s": "80c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021?variant=629"
     },
     {
      "c": "",
      "s": "85c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021?variant=630"
     },
     {
      "c": "",
      "s": "90c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021?variant=631"
     }
@@ -3897,7 +3897,7 @@
    "url": "https://lovewearz.com/product/b2021-1",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/baf7302402ac99e3eeb878a31dd526ad.jpg",
-   "price": 1058000,
+   "price": 793500,
    "sizes": [
     {
      "label": "75C( شورت M)",
@@ -3968,84 +3968,84 @@
     {
      "c": "مشکی",
      "s": "75c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=632"
     },
     {
      "c": "مشکی",
      "s": "80c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=633"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=634"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=635"
     },
     {
      "c": "بادمجانی",
      "s": "75c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=636"
     },
     {
      "c": "بادمجانی",
      "s": "80c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=637"
     },
     {
      "c": "بادمجانی",
      "s": "85c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=638"
     },
     {
      "c": "بادمجانی",
      "s": "90c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=639"
     },
     {
      "c": "فیلی",
      "s": "75c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=640"
     },
     {
      "c": "فیلی",
      "s": "80c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=641"
     },
     {
      "c": "فیلی",
      "s": "85c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=642"
     },
     {
      "c": "فیلی",
      "s": "90c",
-     "p": 1058000,
+     "p": 793500,
      "a": true,
      "url": "https://lovewearz.com/product/b2021-1?variant=643"
     }
@@ -4058,7 +4058,7 @@
    "url": "https://lovewearz.com/product/Ma1025",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/4253e0f1ce35cd1f9e63ed73e23502ef.jpg",
-   "price": 1064000,
+   "price": 798000,
    "sizes": [
     {
      "label": "75B",
@@ -4131,28 +4131,28 @@
     {
      "c": "",
      "s": "75b",
-     "p": 1064000,
+     "p": 798000,
      "a": true,
      "url": "https://lovewearz.com/product/Ma1025?variant=644"
     },
     {
      "c": "",
      "s": "80b",
-     "p": 1064000,
+     "p": 798000,
      "a": true,
      "url": "https://lovewearz.com/product/Ma1025?variant=645"
     },
     {
      "c": "",
      "s": "85b",
-     "p": 1064000,
+     "p": 798000,
      "a": true,
      "url": "https://lovewearz.com/product/Ma1025?variant=646"
     },
     {
      "c": "",
      "s": "90b",
-     "p": 1064000,
+     "p": 798000,
      "a": true,
      "url": "https://lovewearz.com/product/Ma1025?variant=647"
     }
@@ -4165,7 +4165,7 @@
    "url": "https://lovewearz.com/product/Ma1029",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/d8fb79e16868cbada444f5a0ec85335a.jpg",
-   "price": 1064000,
+   "price": 798000,
    "sizes": [
     {
      "label": "75B",
@@ -4238,7 +4238,7 @@
     {
      "c": "",
      "s": "75b",
-     "p": 1064000,
+     "p": 798000,
      "a": true,
      "url": "https://lovewearz.com/product/Ma1029?variant=648"
     },
@@ -4252,14 +4252,14 @@
     {
      "c": "",
      "s": "85b",
-     "p": 1064000,
+     "p": 798000,
      "a": true,
      "url": "https://lovewearz.com/product/Ma1029?variant=650"
     },
     {
      "c": "",
      "s": "90b",
-     "p": 1064000,
+     "p": 798000,
      "a": true,
      "url": "https://lovewearz.com/product/Ma1029?variant=651"
     }
@@ -4272,7 +4272,7 @@
    "url": "https://lovewearz.com/product/ma1420",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/f858bae02643969394c18c3cb6e9cc6f.jpg",
-   "price": 1134000,
+   "price": 850500,
    "sizes": [
     {
      "label": "75B",
@@ -4344,28 +4344,28 @@
     {
      "c": "مشکی",
      "s": "75b",
-     "p": 1134000,
+     "p": 850500,
      "a": true,
      "url": "https://lovewearz.com/product/ma1420?variant=652"
     },
     {
      "c": "مشکی",
      "s": "80b",
-     "p": 1134000,
+     "p": 850500,
      "a": true,
      "url": "https://lovewearz.com/product/ma1420?variant=653"
     },
     {
      "c": "مشکی",
      "s": "85b",
-     "p": 1134000,
+     "p": 850500,
      "a": true,
      "url": "https://lovewearz.com/product/ma1420?variant=654"
     },
     {
      "c": "مشکی",
      "s": "90b",
-     "p": 1134000,
+     "p": 850500,
      "a": true,
      "url": "https://lovewearz.com/product/ma1420?variant=655"
     }
@@ -4378,7 +4378,7 @@
    "url": "https://lovewearz.com/product/ma1425",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/0110ee4c781baec918aca67eb5874786.jpg",
-   "price": 1134000,
+   "price": 850500,
    "sizes": [
     {
      "label": "75B",
@@ -4450,28 +4450,28 @@
     {
      "c": "سفید",
      "s": "75b",
-     "p": 1134000,
+     "p": 850500,
      "a": true,
      "url": "https://lovewearz.com/product/ma1425?variant=656"
     },
     {
      "c": "سفید",
      "s": "80b",
-     "p": 1134000,
+     "p": 850500,
      "a": true,
      "url": "https://lovewearz.com/product/ma1425?variant=657"
     },
     {
      "c": "سفید",
      "s": "85b",
-     "p": 1134000,
+     "p": 850500,
      "a": true,
      "url": "https://lovewearz.com/product/ma1425?variant=658"
     },
     {
      "c": "سفید",
      "s": "90b",
-     "p": 1134000,
+     "p": 850500,
      "a": true,
      "url": "https://lovewearz.com/product/ma1425?variant=659"
     }
@@ -4484,7 +4484,7 @@
    "url": "https://lovewearz.com/product/mi009",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/f4c907096730a24a66fa23fa461ffb3f.jpg",
-   "price": 1384000,
+   "price": 1038000,
    "sizes": [
     {
      "label": "75B(شورت M)",
@@ -4529,14 +4529,14 @@
     {
      "c": "نسکافه ای",
      "s": "75b",
-     "p": 1384000,
+     "p": 1038000,
      "a": true,
      "url": "https://lovewearz.com/product/mi009?variant=660"
     },
     {
      "c": "نسکافه ای",
      "s": "80b",
-     "p": 1384000,
+     "p": 1038000,
      "a": true,
      "url": "https://lovewearz.com/product/mi009?variant=661"
     }
@@ -4549,7 +4549,7 @@
    "url": "https://lovewearz.com/product/sh8217",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/cca29e33c188b742e0e4709c10a5f850.jpg",
-   "price": 1519000,
+   "price": 1139250,
    "sizes": [
     {
      "label": "80C( شورت M)",
@@ -4620,84 +4620,84 @@
     {
      "c": "بنفش",
      "s": "90d",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=673"
     },
     {
      "c": "سفید",
      "s": "90c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=674"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=675"
     },
     {
      "c": "کالباسی",
      "s": "90c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=676"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=677"
     },
     {
      "c": "سفید",
      "s": "85c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=678"
     },
     {
      "c": "آبی کاربنی",
      "s": "85c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=679"
     },
     {
      "c": "قرمز",
      "s": "85c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=680"
     },
     {
      "c": "کالباسی",
      "s": "80c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=681"
     },
     {
      "c": "آبی کاربنی",
      "s": "80c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=682"
     },
     {
      "c": "قرمز",
      "s": "80c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=683"
     },
     {
      "c": "بنفش",
      "s": "80c",
-     "p": 1519000,
+     "p": 1139250,
      "a": true,
      "url": "https://lovewearz.com/product/sh8217?variant=684"
     }
@@ -4710,7 +4710,7 @@
    "url": "https://lovewearz.com/product/sh153",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/56bf3a3dc09d5ec4114a6f9dd77b0891.jpg",
-   "price": 1232000,
+   "price": 924000,
    "sizes": [
     {
      "label": "80B",
@@ -4780,77 +4780,77 @@
     {
      "c": "صورتی",
      "s": "95b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=685"
     },
     {
      "c": "مشکی",
      "s": "95b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=686"
     },
     {
      "c": "قرمز",
      "s": "90b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=687"
     },
     {
      "c": "سفید",
      "s": "90b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=688"
     },
     {
      "c": "آبی",
      "s": "90b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=689"
     },
     {
      "c": "صورتی",
      "s": "85b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=690"
     },
     {
      "c": "کالباسی",
      "s": "85b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=691"
     },
     {
      "c": "مشکی",
      "s": "85b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=692"
     },
     {
      "c": "آبی",
      "s": "80b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=693"
     },
     {
      "c": "قرمز",
      "s": "80b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=694"
     },
     {
      "c": "سفید",
      "s": "80b",
-     "p": 1232000,
+     "p": 924000,
      "a": true,
      "url": "https://lovewearz.com/product/sh153?variant=695"
     }
@@ -4863,7 +4863,7 @@
    "url": "https://lovewearz.com/product/sh8212",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/4756f4419fc11f0f90d5990249d3fc24.jpg",
-   "price": 1657000,
+   "price": 1242750,
    "sizes": [
     {
      "label": "80(شورت L)",
@@ -4934,56 +4934,56 @@
     {
      "c": "سفید",
      "s": "80d",
-     "p": 1657000,
+     "p": 1242750,
      "a": true,
      "url": "https://lovewearz.com/product/sh8212?variant=696"
     },
     {
      "c": "سفید",
      "s": "85d",
-     "p": 1657000,
+     "p": 1242750,
      "a": true,
      "url": "https://lovewearz.com/product/sh8212?variant=697"
     },
     {
      "c": "سفید",
      "s": "90d",
-     "p": 1657000,
+     "p": 1242750,
      "a": true,
      "url": "https://lovewearz.com/product/sh8212?variant=698"
     },
     {
      "c": "سفید",
      "s": "95d",
-     "p": 1657000,
+     "p": 1242750,
      "a": true,
      "url": "https://lovewearz.com/product/sh8212?variant=699"
     },
     {
      "c": "مشکی",
      "s": "80d",
-     "p": 1657000,
+     "p": 1242750,
      "a": true,
      "url": "https://lovewearz.com/product/sh8212?variant=700"
     },
     {
      "c": "مشکی",
      "s": "85d",
-     "p": 1657000,
+     "p": 1242750,
      "a": true,
      "url": "https://lovewearz.com/product/sh8212?variant=701"
     },
     {
      "c": "مشکی",
      "s": "90d",
-     "p": 1657000,
+     "p": 1242750,
      "a": true,
      "url": "https://lovewearz.com/product/sh8212?variant=702"
     },
     {
      "c": "مشکی",
      "s": "95d",
-     "p": 1657000,
+     "p": 1242750,
      "a": true,
      "url": "https://lovewearz.com/product/sh8212?variant=703"
     }
@@ -4996,7 +4996,7 @@
    "url": "https://lovewearz.com/product/sh200",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/02c390e4eb589d65051ffca4b943ca04.jpg",
-   "price": 910000,
+   "price": 682500,
    "sizes": [
     {
      "label": "90C",
@@ -5080,42 +5080,42 @@
     {
      "c": "شیری",
      "s": "105",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh200?variant=704"
     },
     {
      "c": "کالباسی",
      "s": "105",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh200?variant=705"
     },
     {
      "c": "شیری",
      "s": "100c",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh200?variant=706"
     },
     {
      "c": "کالباسی",
      "s": "100c",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh200?variant=707"
     },
     {
      "c": "طوسی",
      "s": "95c",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh200?variant=708"
     },
     {
      "c": "مشکی",
      "s": "95c",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh200?variant=709"
     },
@@ -5129,7 +5129,7 @@
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 910000,
+     "p": 682500,
      "a": true,
      "url": "https://lovewearz.com/product/sh200?variant=711"
     }
@@ -5142,7 +5142,7 @@
    "url": "https://lovewearz.com/product/mi001",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/a68668d2c099e49c9f43f39edb8b96f3.jpg",
-   "price": 1305000,
+   "price": 978750,
    "sizes": [
     {
      "label": "80",
@@ -5200,28 +5200,28 @@
     {
      "c": "شیری",
      "s": "85",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi001?variant=722"
     },
     {
      "c": "شیری",
      "s": "80",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi001?variant=723"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi001?variant=724"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi001?variant=725"
     }
@@ -5234,7 +5234,7 @@
    "url": "https://lovewearz.com/product/mi002",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/c2ab533bbb3abd5ad04c80c96f9ef2ba.jpg",
-   "price": 1305000,
+   "price": 978750,
    "sizes": [
     {
      "label": "80",
@@ -5280,42 +5280,42 @@
     {
      "c": "قرمز",
      "s": "85",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi002?variant=726"
     },
     {
      "c": "قرمز",
      "s": "80",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi002?variant=727"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi002?variant=728"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi002?variant=729"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi002?variant=730"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi002?variant=731"
     }
@@ -5328,7 +5328,7 @@
    "url": "https://lovewearz.com/product/mi005",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/f7468b8cfd5d705077fc2a95c9b073f0.jpg",
-   "price": 1480000,
+   "price": 1110000,
    "sizes": [
     {
      "label": "80",
@@ -5375,7 +5375,7 @@
     {
      "c": "",
      "s": "80",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/mi005?variant=732"
     },
@@ -5395,7 +5395,7 @@
    "url": "https://lovewearz.com/product/mi004",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/f76a6e8bfe54698579e4374cc7c526ed.jpg",
-   "price": 1305000,
+   "price": 978750,
    "sizes": [
     {
      "label": "75",
@@ -5454,28 +5454,28 @@
     {
      "c": "سبز",
      "s": "80",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi004?variant=734"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi004?variant=735"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi004?variant=736"
     },
     {
      "c": "سبز",
      "s": "85",
-     "p": 1305000,
+     "p": 978750,
      "a": true,
      "url": "https://lovewearz.com/product/mi004?variant=737"
     }
@@ -5488,7 +5488,7 @@
    "url": "https://lovewearz.com/product/M1148",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/44acf2d5baca39fe0d5e5c66fbdcbae4.jpg",
-   "price": 1204000,
+   "price": 903000,
    "sizes": [
     {
      "label": "سایز 75B( شورت S)",
@@ -5560,7 +5560,7 @@
     {
      "c": "",
      "s": "90b",
-     "p": 1204000,
+     "p": 903000,
      "a": true,
      "url": "https://lovewearz.com/product/M1148?variant=862"
     }
@@ -5573,7 +5573,7 @@
    "url": "https://lovewearz.com/product/M0801",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/5e8b5abbb79fc89086ebb94659821e00.jpg",
-   "price": 1205000,
+   "price": 903750,
    "sizes": [
     {
      "label": "سایز 75B( شورت L)",
@@ -5646,28 +5646,28 @@
     {
      "c": "",
      "s": "75b",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/M0801?variant=863"
     },
     {
      "c": "",
      "s": "80b",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/M0801?variant=864"
     },
     {
      "c": "",
      "s": "85b",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/M0801?variant=865"
     },
     {
      "c": "",
      "s": "90b",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/M0801?variant=866"
     }
@@ -5680,7 +5680,7 @@
    "url": "https://lovewearz.com/product/LO9036",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/33f51b992c700443bff68676252d72cb.jpg",
-   "price": 1386000,
+   "price": 1039500,
    "sizes": [
     {
      "label": "85B(شورت XL)",
@@ -5791,77 +5791,77 @@
     {
      "c": "کرم زرشکی",
      "s": "85d",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=867"
     },
     {
      "c": "طوسی صورتی",
      "s": "85d",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=868"
     },
     {
      "c": "کرم سفید",
      "s": "80d",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=869"
     },
     {
      "c": "کرم زرشکی",
      "s": "80d",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=870"
     },
     {
      "c": "طوسی صورتی",
      "s": "80d",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=871"
     },
     {
      "c": "کرم زرشکی",
      "s": "75d",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=872"
     },
     {
      "c": "کرم سفید",
      "s": "75d",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=873"
     },
     {
      "c": "کرم زرشکی",
      "s": "85c",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=874"
     },
     {
      "c": "کرم سفید",
      "s": "85c",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=875"
     },
     {
      "c": "کرم زرشکی",
      "s": "80c",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=876"
     },
     {
      "c": "طوسی صورتی",
      "s": "80c",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=877"
     },
@@ -5875,21 +5875,21 @@
     {
      "c": "کرم زرشکی",
      "s": "75c",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=879"
     },
     {
      "c": "طوسی صورتی",
      "s": "75c",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=880"
     },
     {
      "c": "کرم سفید",
      "s": "85b",
-     "p": 1386000,
+     "p": 1039500,
      "a": true,
      "url": "https://lovewearz.com/product/LO9036?variant=881"
     }
@@ -5902,7 +5902,7 @@
    "url": "https://lovewearz.com/product/LO8011",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/369b10528480ba3a765ef5da4f86845e.jpg",
-   "price": 1293000,
+   "price": 969750,
    "sizes": [
     {
      "label": "75D(شورت M)",
@@ -5949,14 +5949,14 @@
     {
      "c": "",
      "s": "75d",
-     "p": 1293000,
+     "p": 969750,
      "a": true,
      "url": "https://lovewearz.com/product/LO8011?variant=882"
     },
     {
      "c": "",
      "s": "80d",
-     "p": 1293000,
+     "p": 969750,
      "a": true,
      "url": "https://lovewearz.com/product/LO8011?variant=883"
     }
@@ -5969,7 +5969,7 @@
    "url": "https://lovewearz.com/product/MI006",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/bde74275123a66c4939cd29593b592c0.jpg",
-   "price": 1390000,
+   "price": 1042500,
    "sizes": [
     {
      "label": "سایز 80b",
@@ -6016,14 +6016,14 @@
     {
      "c": "",
      "s": "80",
-     "p": 1390000,
+     "p": 1042500,
      "a": true,
      "url": "https://lovewearz.com/product/MI006?variant=884"
     },
     {
      "c": "",
      "s": "85",
-     "p": 1390000,
+     "p": 1042500,
      "a": true,
      "url": "https://lovewearz.com/product/MI006?variant=885"
     }
@@ -6036,7 +6036,7 @@
    "url": "https://lovewearz.com/product/LO9034",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/d8f5252af5de8b38402802d2222d9fa5.jpg",
-   "price": 1480000,
+   "price": 1110000,
    "sizes": [
     {
      "label": "75C",
@@ -6134,56 +6134,56 @@
     {
      "c": "آبی کاربنی",
      "s": "85d",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/LO9034?variant=886"
     },
     {
      "c": "آبی کاربنی",
      "s": "80d",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/LO9034?variant=887"
     },
     {
      "c": "مشکی",
      "s": "75d",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/LO9034?variant=888"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/LO9034?variant=889"
     },
     {
      "c": "آبی کاربنی",
      "s": "85c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/LO9034?variant=890"
     },
     {
      "c": "مشکی",
      "s": "80c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/LO9034?variant=891"
     },
     {
      "c": "مشکی",
      "s": "75c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/LO9034?variant=892"
     },
     {
      "c": "آبی کاربنی",
      "s": "75c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/LO9034?variant=893"
     }
@@ -6196,7 +6196,7 @@
    "url": "https://lovewearz.com/product/M001",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/bf0c13ca81acd3d7c873d34737810c31.jpg",
-   "price": 1920000,
+   "price": 1440000,
    "sizes": [
     {
      "label": "سایز 80",
@@ -6242,28 +6242,28 @@
     {
      "c": "زرشکی",
      "s": "85",
-     "p": 1920000,
+     "p": 1440000,
      "a": true,
      "url": "https://lovewearz.com/product/M001?variant=894"
     },
     {
      "c": "شیری",
      "s": "80",
-     "p": 1920000,
+     "p": 1440000,
      "a": true,
      "url": "https://lovewearz.com/product/M001?variant=895"
     },
     {
      "c": "شیری",
      "s": "85",
-     "p": 1920000,
+     "p": 1440000,
      "a": true,
      "url": "https://lovewearz.com/product/M001?variant=896"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1920000,
+     "p": 1440000,
      "a": true,
      "url": "https://lovewearz.com/product/M001?variant=897"
     }
@@ -6276,7 +6276,7 @@
    "url": "https://lovewearz.com/product/B603",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/ed1d3778e69261cfe786839fac0c26e0.jpg",
-   "price": 985000,
+   "price": 738750,
    "sizes": [
     {
      "label": "80C",
@@ -6335,35 +6335,35 @@
     {
      "c": "صورتی",
      "s": "80c",
-     "p": 985000,
+     "p": 738750,
      "a": true,
      "url": "https://lovewearz.com/product/B603?variant=898"
     },
     {
      "c": "صورتی",
      "s": "85c",
-     "p": 985000,
+     "p": 738750,
      "a": true,
      "url": "https://lovewearz.com/product/B603?variant=899"
     },
     {
      "c": "مشکی",
      "s": "80c",
-     "p": 985000,
+     "p": 738750,
      "a": true,
      "url": "https://lovewearz.com/product/B603?variant=900"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 985000,
+     "p": 738750,
      "a": true,
      "url": "https://lovewearz.com/product/B603?variant=901"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 985000,
+     "p": 738750,
      "a": true,
      "url": "https://lovewearz.com/product/B603?variant=902"
     }
@@ -6376,7 +6376,7 @@
    "url": "https://lovewearz.com/product/B3525",
    "type": "سوتین",
    "img": "https://lovewearz.com/uploads/product/big/9f55e461be63bdd8f7a004f2e8c3990b.jpg",
-   "price": 986000,
+   "price": 739500,
    "sizes": [
     {
      "label": "سایز 75",
@@ -6448,77 +6448,77 @@
     {
      "c": "زرشکی",
      "s": "75c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=903"
     },
     {
      "c": "زرشکی",
      "s": "80c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=904"
     },
     {
      "c": "زرشکی",
      "s": "85c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=905"
     },
     {
      "c": "زرشکی",
      "s": "90c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=906"
     },
     {
      "c": "کرم",
      "s": "75c",
-     "p": 986000,
+     "p": 739500,
      "a": false,
      "url": "https://lovewearz.com/product/B3525?variant=907"
     },
     {
      "c": "کرم",
      "s": "80c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=908"
     },
     {
      "c": "کرم",
      "s": "85c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=909"
     },
     {
      "c": "کرم",
      "s": "90c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=910"
     },
     {
      "c": "مشکی",
      "s": "80c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=911"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=912"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 986000,
+     "p": 739500,
      "a": true,
      "url": "https://lovewearz.com/product/B3525?variant=913"
     }
@@ -6531,7 +6531,7 @@
    "url": "https://lovewearz.com/product/MI008",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/eecc9a9daaf5b13c7dc8da9e40bcdd49.jpg",
-   "price": 1420000,
+   "price": 1065000,
    "sizes": [
     {
      "label": "سایز 80",
@@ -6578,14 +6578,14 @@
     {
      "c": "",
      "s": "80",
-     "p": 1420000,
+     "p": 1065000,
      "a": true,
      "url": "https://lovewearz.com/product/MI008?variant=920"
     },
     {
      "c": "",
      "s": "85",
-     "p": 1420000,
+     "p": 1065000,
      "a": true,
      "url": "https://lovewearz.com/product/MI008?variant=921"
     }
@@ -6598,7 +6598,7 @@
    "url": "https://lovewearz.com/product/MI003",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/c46b4f3e35962016c2430a7f20bd39c9.jpg",
-   "price": 1356000,
+   "price": 1017000,
    "sizes": [
     {
      "label": "80",
@@ -6644,42 +6644,42 @@
     {
      "c": "خاکی",
      "s": "80",
-     "p": 1356000,
+     "p": 1017000,
      "a": true,
      "url": "https://lovewearz.com/product/MI003?variant=922"
     },
     {
      "c": "خاکی",
      "s": "85",
-     "p": 1356000,
+     "p": 1017000,
      "a": true,
      "url": "https://lovewearz.com/product/MI003?variant=923"
     },
     {
      "c": "سفید",
      "s": "80",
-     "p": 1356000,
+     "p": 1017000,
      "a": true,
      "url": "https://lovewearz.com/product/MI003?variant=924"
     },
     {
      "c": "سفید",
      "s": "85",
-     "p": 1356000,
+     "p": 1017000,
      "a": true,
      "url": "https://lovewearz.com/product/MI003?variant=925"
     },
     {
      "c": "مشکی",
      "s": "80",
-     "p": 1356000,
+     "p": 1017000,
      "a": true,
      "url": "https://lovewearz.com/product/MI003?variant=926"
     },
     {
      "c": "مشکی",
      "s": "85",
-     "p": 1356000,
+     "p": 1017000,
      "a": true,
      "url": "https://lovewearz.com/product/MI003?variant=927"
     }
@@ -6692,7 +6692,7 @@
    "url": "https://lovewearz.com/product/M1007",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/cb2d5453263fc211e75c2b4244b53c7c.jpg",
-   "price": 1290000,
+   "price": 967500,
    "sizes": [
     {
      "label": "سایز 75B( شورت S)",
@@ -6765,28 +6765,28 @@
     {
      "c": "",
      "s": "75b",
-     "p": 1290000,
+     "p": 967500,
      "a": true,
      "url": "https://lovewearz.com/product/M1007?variant=928"
     },
     {
      "c": "",
      "s": "80b",
-     "p": 1290000,
+     "p": 967500,
      "a": true,
      "url": "https://lovewearz.com/product/M1007?variant=929"
     },
     {
      "c": "",
      "s": "85b",
-     "p": 1290000,
+     "p": 967500,
      "a": true,
      "url": "https://lovewearz.com/product/M1007?variant=930"
     },
     {
      "c": "",
      "s": "90b",
-     "p": 1290000,
+     "p": 967500,
      "a": true,
      "url": "https://lovewearz.com/product/M1007?variant=931"
     }
@@ -6799,7 +6799,7 @@
    "url": "https://lovewearz.com/product/M2016",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/57ab431317ababa2b1d4e9b116190da9.jpg",
-   "price": 1205000,
+   "price": 903750,
    "sizes": [
     {
      "label": "B 70",
@@ -6872,28 +6872,28 @@
     {
      "c": "",
      "s": "75b",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/M2016?variant=932"
     },
     {
      "c": "",
      "s": "80b",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/M2016?variant=933"
     },
     {
      "c": "",
      "s": "85b",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/M2016?variant=934"
     },
     {
      "c": "",
      "s": "90b",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/M2016?variant=935"
     }
@@ -6906,7 +6906,7 @@
    "url": "https://lovewearz.com/product/SH9915",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/aea8a8a7918688ce0f86f21ea4feea37.jpg",
-   "price": 1480000,
+   "price": 1110000,
    "sizes": [
     {
      "label": "80C(شورت L)",
@@ -6978,56 +6978,56 @@
     {
      "c": "قرمز",
      "s": "80c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/SH9915?variant=936"
     },
     {
      "c": "قرمز",
      "s": "85c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/SH9915?variant=937"
     },
     {
      "c": "قرمز",
      "s": "90c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/SH9915?variant=938"
     },
     {
      "c": "مشکی",
      "s": "80c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/SH9915?variant=939"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/SH9915?variant=940"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/SH9915?variant=941"
     },
     {
      "c": "مشکی کرم",
      "s": "80c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/SH9915?variant=942"
     },
     {
      "c": "مشکی کرم",
      "s": "85c",
-     "p": 1480000,
+     "p": 1110000,
      "a": true,
      "url": "https://lovewearz.com/product/SH9915?variant=943"
     }
@@ -7040,7 +7040,7 @@
    "url": "https://lovewearz.com/product/M2010",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/19c9d241cda373fe7196897ab074d0d2.jpg",
-   "price": 1260000,
+   "price": 945000,
    "sizes": [
     {
      "label": "75B(شورت S)",
@@ -7100,21 +7100,21 @@
     {
      "c": "",
      "s": "75b",
-     "p": 1260000,
+     "p": 945000,
      "a": true,
      "url": "https://lovewearz.com/product/M2010?variant=944"
     },
     {
      "c": "",
      "s": "85b",
-     "p": 1260000,
+     "p": 945000,
      "a": true,
      "url": "https://lovewearz.com/product/M2010?variant=945"
     },
     {
      "c": "",
      "s": "90b",
-     "p": 1260000,
+     "p": 945000,
      "a": true,
      "url": "https://lovewearz.com/product/M2010?variant=946"
     }
@@ -7127,7 +7127,7 @@
    "url": "https://lovewearz.com/product/P223",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/d48e78dddb3efb1a7281cf425e068453.jpg",
-   "price": 1193000,
+   "price": 894750,
    "sizes": [
     {
      "label": "(همه رنگ ها به جز اجری)",
@@ -7173,42 +7173,42 @@
     {
      "c": "",
      "s": "اجری",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/P223?variant=947"
     },
     {
      "c": "",
      "s": "سفید",
-     "p": 1193000,
+     "p": 894750,
      "a": false,
      "url": "https://lovewearz.com/product/P223?variant=948"
     },
     {
      "c": "",
      "s": "طوسی",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/P223?variant=949"
     },
     {
      "c": "",
      "s": "کالباسی",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/P223?variant=950"
     },
     {
      "c": "",
      "s": "کرم",
-     "p": 1205000,
+     "p": 903750,
      "a": true,
      "url": "https://lovewearz.com/product/P223?variant=951"
     },
     {
      "c": "",
      "s": "مشکی",
-     "p": 1193000,
+     "p": 894750,
      "a": false,
      "url": "https://lovewearz.com/product/P223?variant=952"
     }
@@ -7221,7 +7221,7 @@
    "url": "https://lovewearz.com/product/H022",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/b8e115ec595117f92f35d6fa5f2ad3bf.jpg",
-   "price": 1298000,
+   "price": 973500,
    "sizes": [
     {
      "label": "75B",
@@ -7293,28 +7293,28 @@
     {
      "c": "",
      "s": "75b",
-     "p": 1298000,
+     "p": 973500,
      "a": true,
      "url": "https://lovewearz.com/product/H022?variant=953"
     },
     {
      "c": "",
      "s": "80b",
-     "p": 1298000,
+     "p": 973500,
      "a": true,
      "url": "https://lovewearz.com/product/H022?variant=954"
     },
     {
      "c": "",
      "s": "85b",
-     "p": 1298000,
+     "p": 973500,
      "a": true,
      "url": "https://lovewearz.com/product/H022?variant=955"
     },
     {
      "c": "",
      "s": "90b",
-     "p": 1298000,
+     "p": 973500,
      "a": true,
      "url": "https://lovewearz.com/product/H022?variant=956"
     }
@@ -7327,7 +7327,7 @@
    "url": "https://lovewearz.com/product/M0927",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/e225da5c7b28a251689bf909bb9fbd81.jpg",
-   "price": 2400000,
+   "price": 1800000,
    "sizes": [
     {
      "label": "80C( شورت M/L)",
@@ -7400,28 +7400,28 @@
     {
      "c": "",
      "s": "80c",
-     "p": 2400000,
+     "p": 1800000,
      "a": true,
      "url": "https://lovewearz.com/product/M0927?variant=957"
     },
     {
      "c": "",
      "s": "85c",
-     "p": 2400000,
+     "p": 1800000,
      "a": true,
      "url": "https://lovewearz.com/product/M0927?variant=958"
     },
     {
      "c": "",
      "s": "90c",
-     "p": 2400000,
+     "p": 1800000,
      "a": true,
      "url": "https://lovewearz.com/product/M0927?variant=959"
     },
     {
      "c": "",
      "s": "95c",
-     "p": 2400000,
+     "p": 1800000,
      "a": true,
      "url": "https://lovewearz.com/product/M0927?variant=960"
     }
@@ -7434,7 +7434,7 @@
    "url": "https://lovewearz.com/product/SH9825",
    "type": "ست",
    "img": "https://lovewearz.com/uploads/product/big/647c0df953233c35b192a2c86d52a9ec.jpg",
-   "price": 1850000,
+   "price": 1387500,
    "sizes": [
     {
      "label": "80c(شورت L)",
@@ -7492,89 +7492,234 @@
     {
      "c": "سبز",
      "s": "85c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=961"
     },
     {
      "c": "سبز",
      "s": "90c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=962"
     },
     {
      "c": "صورتی",
      "s": "80c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=963"
     },
     {
      "c": "صورتی",
      "s": "85c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=964"
     },
     {
      "c": "صورتی",
      "s": "90c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=965"
     },
     {
      "c": "قرمز",
      "s": "80c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=966"
     },
     {
      "c": "قرمز",
      "s": "85c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=967"
     },
     {
      "c": "مشکی",
      "s": "80c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=968"
     },
     {
      "c": "مشکی",
      "s": "85c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=969"
     },
     {
      "c": "مشکی",
      "s": "90c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=970"
     },
     {
      "c": "مشکی صورتی",
      "s": "80c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=971"
     },
     {
      "c": "مشکی صورتی",
      "s": "90c",
-     "p": 1850000,
+     "p": 1387500,
      "a": true,
      "url": "https://lovewearz.com/product/SH9825?variant=972"
     }
    ],
    "thumb": "thumbs/SH9825.jpg"
+  },
+  {
+   "code": "m1200+",
+   "name": "ست شورت و سوتین و گارتر توری M1200+ کدکالا: {{ displayProductCode }}",
+   "url": "https://lovewearz.com/product/m1200+",
+   "type": "ست",
+   "img": "https://lovewearz.com/uploads/product/big/fae86fe5e45126d0fe20a1f2f822d2e6.jpg",
+   "price": 1237500,
+   "sizes": [
+    {
+     "label": "سایز 75B( شورت S) سرخابی",
+     "under": [
+      71.5,
+      75.5
+     ],
+     "over": [
+      81,
+      83
+     ],
+     "cup": "B",
+     "ir": "75"
+    },
+    {
+     "label": "سایز 75B( شورت S) سفید",
+     "under": [
+      68,
+      73
+     ],
+     "over": [
+      78,
+      80
+     ],
+     "cup": "B",
+     "ir": "75"
+    },
+    {
+     "label": "سایز 80B( شورت M)",
+     "under": [
+      74.5,
+      78.5
+     ],
+     "over": [
+      84.5,
+      86.5
+     ],
+     "cup": "B",
+     "ir": "75"
+    },
+    {
+     "label": "سایز 85B( شورت L)",
+     "under": [
+      78,
+      81
+     ],
+     "over": [
+      88.5,
+      90.5
+     ],
+     "cup": "B",
+     "ir": "80"
+    },
+    {
+     "label": "سایز 90B(شورت XL)",
+     "under": [
+      82,
+      85.5
+     ],
+     "over": [
+      92.5,
+      94.5
+     ],
+     "cup": "B",
+     "ir": "85"
+    }
+   ],
+   "specs": {
+    "مناسب برای": "ست عروس، زیر لباس روشن، مناسب خاص",
+    "نوع": "دمی",
+    "جنس": "تور و گیپور",
+    "رده سنی": "بزرگسال",
+    "بند سرشانه": "قابل تنظیم",
+    "کاپ": "B",
+    "تعداد قزن": "دو ردیف",
+    "میزان پوشش": "متوسط",
+    "نوع شورت در صورت ست بودن": "لامبادا بندی تنظیمی"
+   },
+   "vars": [
+    {
+     "c": "75b",
+     "s": "سرخآبی",
+     "p": 1237500,
+     "a": true,
+     "url": "https://lovewearz.com/product/m1200+?variant=973"
+    },
+    {
+     "c": "75b",
+     "s": "سفید",
+     "p": 1237500,
+     "a": true,
+     "url": "https://lovewearz.com/product/m1200+?variant=974"
+    },
+    {
+     "c": "80b",
+     "s": "سرخآبی",
+     "p": 1237500,
+     "a": true,
+     "url": "https://lovewearz.com/product/m1200+?variant=975"
+    },
+    {
+     "c": "80b",
+     "s": "سفید",
+     "p": 1237500,
+     "a": true,
+     "url": "https://lovewearz.com/product/m1200+?variant=976"
+    },
+    {
+     "c": "85b",
+     "s": "سرخآبی",
+     "p": 1237500,
+     "a": true,
+     "url": "https://lovewearz.com/product/m1200+?variant=977"
+    },
+    {
+     "c": "85b",
+     "s": "سفید",
+     "p": 1237500,
+     "a": true,
+     "url": "https://lovewearz.com/product/m1200+?variant=978"
+    },
+    {
+     "c": "90b",
+     "s": "سرخآبی",
+     "p": 1237500,
+     "a": true,
+     "url": "https://lovewearz.com/product/m1200+?variant=979"
+    },
+    {
+     "c": "90b",
+     "s": "سفید",
+     "p": 1237500,
+     "a": true,
+     "url": "https://lovewearz.com/product/m1200+?variant=980"
+    }
+   ],
+   "thumb": "thumbs/m1200_.jpg"
   }
  ],
  "problems": []

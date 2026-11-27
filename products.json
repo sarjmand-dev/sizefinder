@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T01:48:45.320Z",
+ "generatedAt": "2026-11-27T01:54:20.924Z",
  "source": "https://lovewearz.com",
  "scanned": 175,
  "products": [
@@ -130,7 +130,7 @@
      "c": "سفید",
      "s": "90",
      "p": 483750,
-     "a": true,
+     "a": false,
      "url": "https://lovewearz.com/product/HNX123?variant=396"
     },
     {
@@ -158,7 +158,7 @@
      "c": "مشکی",
      "s": "90",
      "p": 483750,
-     "a": true,
+     "a": false,
      "url": "https://lovewearz.com/product/HNX123?variant=400"
     },
     {
@@ -186,7 +186,7 @@
      "c": "سرمه ای",
      "s": "90",
      "p": 483750,
-     "a": true,
+     "a": false,
      "url": "https://lovewearz.com/product/HNX123?variant=404"
     },
     {
@@ -1122,14 +1122,14 @@
      "c": "طوسی",
      "s": "90",
      "p": 663750,
-     "a": true,
+     "a": false,
      "url": "https://lovewearz.com/product/HNX1213?variant=453"
     },
     {
      "c": "سفید",
      "s": "90",
      "p": 663750,
-     "a": true,
+     "a": false,
      "url": "https://lovewearz.com/product/HNX1213?variant=454"
     },
     {
